@@ -31,6 +31,7 @@
 * [Series 24 - Italian Automotive](#Series-24---Italian-Automotive)
 * [Series 25 - Horizon Creatives](#Series-25---Horizon-Creatives)
 * [Series 26 - Dia De Muertos (current newest)](#Series-26---Dia-De-Muertos)
+* [Series 27 - American Automotive (yet to come)](#Series-27---American-Automotive)
 
 **- Table of contents for extras**
 
@@ -488,6 +489,22 @@
 | 2022 Porsche 718       | 3760 |
 | 2020 KTM X-Bow GT2     | 3492 |
 | 2019 Elemental RP1     | 3334 |
+
+</details>
+
+<details> 
+<summary><h2 align="center">Series 27 - American Automotive</h2></summary>
+
+| Car                    | Id   |
+|------------------------|------|
+| PLACEHOLDER 1          | XXXX |
+| PLACEHOLDER 2          | XXXX |
+| PLACEHOLDER 3          | XXXX |
+| PLACEHOLDER 4          | XXXX |
+| PLACEHOLDER 5          | XXXX |
+| PLACEHOLDER 6          | XXXX |
+| PLACEHOLDER 7          | XXXX |
+| PLACEHOLDER 8          | XXXX |
 
 </details>
 
