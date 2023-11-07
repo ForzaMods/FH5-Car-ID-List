@@ -30,8 +30,8 @@
 * [Series 23- Summer Party](#Series-23---Summer-Party)
 * [Series 24 - Italian Automotive](#Series-24---Italian-Automotive)
 * [Series 25 - Horizon Creatives](#Series-25---Horizon-Creatives)
-* [Series 26 - Dia De Muertos (current newest)](#Series-26---Dia-De-Muertos)
-* [Series 27 - American Automotive (yet to come)](#Series-27---American-Automotive)
+* [Series 26 - Dia De Muertos](#Series-26---Dia-De-Muertos)
+* [Series 27 - American Automotive (current newest)](#Series-27---American-Automotive)
 
 **- Table of contents for extras**
 
@@ -495,16 +495,20 @@
 <details> 
 <summary><h2 align="center">Series 27 - American Automotive</h2></summary>
 
-| Car                    | Id   |
-|------------------------|------|
-| PLACEHOLDER 1          | XXXX |
-| PLACEHOLDER 2          | XXXX |
-| PLACEHOLDER 3          | XXXX |
-| PLACEHOLDER 4          | XXXX |
-| PLACEHOLDER 5          | XXXX |
-| PLACEHOLDER 6          | XXXX |
-| PLACEHOLDER 7          | XXXX |
-| PLACEHOLDER 8          | XXXX |
+| Car                                  | Id   |
+|--------------------------------------|------|
+| 2023 Chevrolet Corvette Z06          | XXXX |
+| 1964 Plymouth Belvedere              | XXXX |
+| 1966 Chevrolet Nova Super Sport      | XXXX |
+| 1968 Pontiac Firebird                | XXXX |
+| 2024 Lucid Air Sapphire              | XXXX |
+| 1969 Pontiac GTO Judge               | XXXX |
+| 2010 Rossion Q1                      | XXXX |
+| 1962 Lincoln Continental             | XXXX |
+| 2024 Czinger 21C                     | XXXX |
+| 2017 Saleen S7 LM                    | XXXX |
+| 2020 Chevrolet Silverado Trail Boss  | XXXX |
+| 1961 DeBerti Ford 'Shop Rod'         | XXXX |
 
 </details>
 
