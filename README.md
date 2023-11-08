@@ -497,14 +497,14 @@
 
 | Car                                  | Id   |
 |--------------------------------------|------|
-| 2023 Chevrolet Corvette Z06          | XXXX |
-| 1964 Plymouth Belvedere              | XXXX |
+| 2023 Chevrolet Corvette Z06          | 3766 |
+| 1964 Plymouth Belvedere              | 3244 |
 | 1966 Chevrolet Nova Super Sport      | XXXX |
-| 1968 Pontiac Firebird                | XXXX |
-| 2024 Lucid Air Sapphire              | XXXX |
-| 1969 Pontiac GTO Judge               | XXXX |
-| 2010 Rossion Q1                      | XXXX |
-| 1962 Lincoln Continental             | XXXX |
+| 1968 Pontiac Firebird                | 1338 |
+| 2024 Lucid Air Sapphire              | 3811 |
+| 1969 Pontiac GTO Judge               | 1309 |
+| 2010 Rossion Q1                      | 1248 |
+| 1962 Lincoln Continental             | 1586 |
 | 2024 Czinger 21C                     | XXXX |
 | 2017 Saleen S7 LM                    | XXXX |
 | 2020 Chevrolet Silverado Trail Boss  | XXXX |
